@@ -8,6 +8,8 @@ Navigate to the Amazon S3 service.
 Create a new S3 bucket or select an existing one.
 Upload your content (html,css file for CV) to the bucket.
 Configure bucket permissions to allow public access to objects.
+![CloudFront_S3Bucket_SS](https://github.com/SanjuSunny28/cloudfront/assets/81848448/e5d4e954-ec37-4770-b41e-437b72315762)
+
 
 Step 2: Obtain SSL Certificate:
 
